@@ -1,0 +1,13 @@
+.tabela{
+    width: 200px;
+    text-align: center;
+    margin-left: 40vw;
+    margin-top: 14vw;
+    background-color: aqua;
+    border-radius: 5px;
+    border-style: double;
+}
+
+input{
+    width: 10vw;
+}
